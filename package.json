@@ -1,6 +1,6 @@
 {
-	"name": "learning-markdown",
-	"version": "1.0.0",
+	"name": "@perseverancia/learning-markdown",
+	"version": "0.1.0",
 	"description": "",
 	"type": "module",
 	"main": "./dist/index.js",
